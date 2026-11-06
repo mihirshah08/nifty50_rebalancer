@@ -1,0 +1,17 @@
+# Portfolio data: keep personal holdings out of version control
+Nifty50_Portfolio_Tracker.xlsx
+*.xlsx.bak
+~$*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
